@@ -1,4 +1,4 @@
-# PySpout
+# PySpout - forked version for Steve
 
 A simple [Spout2](https://github.com/leadedge/spout2) implementation for sending opengl textures and raw pixel data to spout
 
@@ -45,7 +45,7 @@ Follow steps 1. to 3. above, then:
 1. Clone this repo recursively
 
 ```
-git clone --recursive git@github.com:off-world-live/pyspout.git
+git clone --recursive https://github.com/steveseguin/pyspout
 ```
 2. Install python with the official windows installer (not via Microsoft Store), selecting `Add to Path` and `Include Debugging Symbols`
 
